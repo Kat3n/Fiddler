@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2021-09-20T14:46:35.3604053+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^NA==*ZXE=*aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS9nZXRfbWV0aG9kP25hbWU9S2F0ZSZhZ2U9MzQ=&quot;]}" Action="[&quot;^^MTE=*&quot;]" Comment="params_mame_age" Enabled="true" Headers="SFRUUC8xLjAgMjAwIE9LDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCkNvbnRlbnQtTGVuZ3RoOiAyMQ0KU2VydmVyOiBXZXJremV1Zy8yLjAuMSBQeXRob24vMy44LjEwDQpEYXRlOiBNb24sIDIwIFNlcCAyMDIxIDExOjQ1OjEyIEdNVA0KDQo=" Body="WyJLYXRlcmluX2thIiwiMzAiXQ0K" />
+  </State>
+</AutoResponder>

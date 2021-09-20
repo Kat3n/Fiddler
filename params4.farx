@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2021-09-20T15:03:03.3557673+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^NA==*ZXE=*aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS91c2VyX2luZm9fMg==&quot;]}" Action="[&quot;^^MTE=*&quot;]" Comment="New Rule" Enabled="true" Headers="SFRUUC8xLjAgMjAwIE9LDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCkNvbnRlbnQtTGVuZ3RoOiAyNDQNClNlcnZlcjogV2Vya3pldWcvMi4wLjEgUHl0aG9uLzMuOC4xMA0KRGF0ZTogTW9uLCAyMCBTZXAgMjAyMSAxMjowMjowMiBHTVQNCg0K" Body="eyJwZXJzb24iOnsidV9hZ2UiOjM0LCJ1X25hbWUiOlsiS2F0ZSIsMTAwMDAsMzRdLCJ1X3NhbGFyeV81X3llYXJzIjo0MjAwMC4wfSwicWFfc2FsYXJ5X2FmdGVyXzEuNV9tb250aCI6MzMwMDAuMCwicWFfc2FsYXJ5X2FmdGVyXzEyX21vbnRocyI6MjcwMDAuMCwicWFfc2FsYXJ5X2FmdGVyXzMuNV95ZWFycyI6MzgwMDAuMCwicWFfc2FsYXJ5X2FmdGVyXzZfbW9udGhzIjoyMDAwMCwic3RhcnRfcWFfc2FsYXJ5IjoxMDAwMH0NCg==" />
+  </State>
+</AutoResponder>
